@@ -11,3 +11,7 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines a side branch into the main branch but in rebasing, you are 
 changing the main branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning about machine learning and how to train an AI model

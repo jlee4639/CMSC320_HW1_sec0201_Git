@@ -6,3 +6,8 @@ Also used a lot in the real world, so its good to get used to it now.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: History. Historical facts and events could be split and stored in a database.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines a side branch into the main branch but in rebasing, you are 
+changing the main branch.

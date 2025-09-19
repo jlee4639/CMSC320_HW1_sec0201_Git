@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: History. Historical facts and events could be split and stored in a database.
